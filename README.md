@@ -11,6 +11,17 @@ A mobile app for organizing and managing your gigs, tasks, and workflow. Built w
 - Responsive and modern UI
 - Priority and due date indicators for tasks
 
+# Demo 
+
+
+https://github.com/user-attachments/assets/1f5a9698-c12d-4c73-b2b2-166f004d36cb
+
+| demo image1 | demo image 2 |
+|-------------------------------------|-------------------------------------|
+| ![2](https://github.com/user-attachments/assets/5f0f3d00-86cc-42c0-b56c-e5eb198d6358) | ![2](https://github.com/user-attachments/assets/5f0f3d00-86cc-42c0-b56c-e5eb198d6358) | 
+
+ 
+
 ## Technologies Used
 
 - React Native
